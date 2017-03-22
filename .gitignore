@@ -1,0 +1,32 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.exe
+*.idb
+*.pdb
+*.obj
+*.sbr
+*.pch
+*.map
+*.res
+*.cod
+*.rsp
+*.tmp
+*.tlh
+*.tlb
+*.ilk
+Source/.vs/
+Source/all/.vs/
+*.db
+*.ipch
